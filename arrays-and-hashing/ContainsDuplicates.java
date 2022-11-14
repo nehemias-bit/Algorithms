@@ -7,6 +7,7 @@ public class ContainsDuplicates {
 
   // Time complexity: Big O(n)
   // Space complexity: Big O(n)
+  // working
   public static boolean containsDuplicates(int[] nums) {
 
     HashSet<Integer> numsSet = new HashSet<Integer>();
